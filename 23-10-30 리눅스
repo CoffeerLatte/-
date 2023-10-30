@@ -1,0 +1,27 @@
+1일차 리눅스 기본 명령어.
+
+
+구름은 웹기반 클라우드 프로그래밍 도구이다.
+
+(1) linux
+(2) database
+(3) 컴퓨터공학
+
+
+1. goorm IDE 컨테이너 생성		//goorm.io
+2. IDE 폰트 D2Coding으로 변경
+3. 디렉토리 생성 /mkdir min   --> min이라는 디렉토리를 생성
+4. root@goorm:/workspace/Linux#   <--#는 관리자 계정 프롬프트 $는 
+사용자 계정 프롬프트라는 표시.
+5. GUI 환경에서 새터미널을 선택하여 터미널 사용가능.
+6. GUI 환경에서 환경설정을 통해 폰트 크기 및 테마 사용 가능.
+7. H/W + S/W = 동작. S/W = Operationg System + Application
+8. 한국에서 많이 쓰이는 linux = Centos --> pedora --> 
+9. Ubuntu는 Debian 기반의 운영체제.
+10. LTS =  LONG TERM SUPPORT
+11. vmware = windows라는 하드웨어 위 운영체제에 vmware를 설치하여 그 안에 리눅스를 사용하는 방법.
+12. 우리가 사용하는 구름은 클라우드에 올라가 있는 상태이기에 바로 사용할 수 있음.
+13. 리눅스는 cli(text)기반.
+14. root@goorm:/workspace/Linux#    --> root(유저),goorm(호스트), /workspace/Linux(경로)
+15. 계정이 생성되면 각자의 계정의 홈 디렉토리가 무조건 생긴다.
+
